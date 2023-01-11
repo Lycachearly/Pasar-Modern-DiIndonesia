@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PAB</string>
+
+    <string-array name="title">
+        <item>Pasar 1</item>
+        <item>Pasar 2</item>
+        <item>Pasar 3</item>
+        <item>Pasar 4</item>
+        <item>Pasar 5</item>
+        <item>Pasar 6</item>
+        <item>Pasar 7</item>
+        <item>Pasar 8</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Deskripsi tentang pasar 1</item>
+        <item>Deskripsi tentang pasar 2</item>
+        <item>Deskripsi tentang pasar 3</item>
+        <item>Deskripsi tentang pasar 4</item>
+        <item>Deskripsi tentang pasar 5</item>
+        <item>Deskripsi tentang pasar 6</item>
+        <item>Deskripsi tentang pasar 7</item>
+        <item>Deskripsi tentang pasar 8</item>
+    </string-array>
+</resources>
